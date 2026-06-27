@@ -16,7 +16,7 @@ gráficos visíveis — um pequeno laboratório de observabilidade HTTP.
 - [O monitor HTTP](#o-monitor-http)
 - [Métricas de rede](#métricas-de-rede)
 - [Notas técnicas e decisões de design](#notas-técnicas-e-decisões-de-design)
-- [Problemas conhecidos / limitações](#problemas-conhecidos--limitações)
+
 
 ## Visão geral
 
