@@ -40,7 +40,7 @@ O servidor expõe duas frentes:
 ## Estrutura do projeto
 
 ```
-artifacts/flask-api/
+TechStore/
 ├── app.py             # Servidor Flask completo (loja + monitor)
 └── requirements.txt   # Dependências (flask>=3.0.0)
 ```
