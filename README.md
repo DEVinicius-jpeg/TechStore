@@ -25,7 +25,7 @@ gráficos visíveis — um pequeno laboratório de observabilidade HTTP.
 | **Linguagem** | Python 3.10+ |
 | **Framework** | Flask 3.x |
 | **Persistência** | Nenhuma — dados fictícios e histórico ficam em memória |
-| **Arquivo principal** | `artifacts/flask-api/app.py` |
+| **Arquivo principal** | `TechStore/app.py` |
 
 O servidor expõe duas frentes:
 
@@ -45,9 +45,6 @@ TechStore/
 └── requirements.txt   # Dependências (flask>=3.0.0)
 ```
 
-> O restante do repositório (`lib/`, outros pacotes em `artifacts/`,
-> `pnpm-lock.yaml`, `tsconfig*.json` etc.) pertence ao monorepo gerado pelo
-> Replit e **não é necessário** para rodar este servidor Flask.
 
 ## Instalação
 
@@ -55,7 +52,7 @@ TechStore/
 
 ```bash
 # 1. Acesse a pasta do servidor
-cd artifacts/flask-api
+cd TechStore
 
 # 2. (Recomendado) crie um ambiente virtual
 python -m venv venv
